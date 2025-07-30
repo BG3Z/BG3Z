@@ -1,4 +1,4 @@
-# 🤫 Move in Silence.
+# 🤫 Move in Silence. ![Profile Views](https://visitcount.itsvg.in/api?id=BG3Z&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1VN) 
