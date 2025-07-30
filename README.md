@@ -1,4 +1,5 @@
-# 🤫 Move in Silence. ![Profile Views](https://visitcount.itsvg.in/api?id=BG3Z&label=Profile%20Views&color=12&icon=5&pretty=true)
+# 🤫 Move in Silence. ![Stealth Mode: OFF](https://visitor-badge.laobi.icu/badge?page_id=BG3Z.BG3Z&left_text=Stealth%20Mode%3A%20OFF&left_color=grey&right_color=%23663399)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1VN) 
