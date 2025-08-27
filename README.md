@@ -1,6 +1,6 @@
 # 🤫 Move in Silence. ![Stealth Mode: OFF](https://visitor-badge.laobi.icu/badge?page_id=BG3Z.BG3Z&left_text=Stealth%20Mode%3A%20OFF&left_color=grey&right_color=%23663399)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250827)](https://tryhackme.com/p/BG3Z)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250828)](https://tryhackme.com/p/BG3Z)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1VN) 
