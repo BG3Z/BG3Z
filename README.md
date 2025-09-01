@@ -1,14 +1,79 @@
-# 🤫 Move in Silence. ![Stealth Mode: OFF](https://visitor-badge.laobi.icu/badge?page_id=BG3Z.BG3Z&left_text=Stealth%20Mode%3A%20OFF&left_color=grey&right_color=%23663399)
+<div id="encabezado" align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&duration=5500&pause=1000&color=7837FA&center=true&vCenter=true&width=600&lines=%3C+Move+In+Silence+%3E;[+Operate+In+The+Shadows+];%23+HackThePlanet" alt="Typing SVG" />
+  </a>
+</div>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250801)](https://tryhackme.com/p/BG3Z)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1VN) 
+<div id="about" align="center">
+    <a href="https://git.io/typing-svg">
+        <div align="center">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+About+Me+%3E" />
+        </div>
+    </a>
+</div>
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+<p align="center">
+  🔎 Computer Engineering<br>
+  🔴 Red Teamer<br>
+  👨‍💻 Pentesting Enjoyer<br>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/1VN">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+</p>
 
----
+<br>
+
+<div id="skills" align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Skills+%3E" />
+    </a>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,linux,bash,powershell,py,windows,wordpress,mysql,photoshop,git,github,gitlab,vim" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="BG3Z Top Langs"/>
+</p>
+
+<br>
+
+<div id="certs" align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+Certifications+%3E" />
+    </a>
+</div>
+
+<p align="center">
+  <!-- eJPTv2 -->
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="120" alt="eJPTv2"/>
+  <!-- ICCA -->
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*PCBXs9F7qjom3aUtzeJxOA.png" width="120" alt="ICCA"/>
+</p>
+
+<br>
+
+<div id="thm" align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+THM+Profile+%3E" />
+    </a>
+</div>
+
+<div align="center">
+  <a href="https://tryhackme.com/p/BG3Z">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250801" alt="TryHackMe Badge">
+  </a>
+</div>
+
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
