@@ -1,6 +1,6 @@
 <div id="encabezado" align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&duration=5500&pause=1000&color=7837FA&center=true&vCenter=true&width=600&lines=%3C+Move+In+Silence+%3E;[+Operate+In+The+Shadows+];%23+HackThePlanet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&duration=4500&pause=700&color=7837FA&center=true&vCenter=true&width=600&lines=%3C+Move+In+Silence+%3E;[+Operate+In+The+Shadows+];%23+HackThePlanet" alt="Typing SVG" />
   </a>
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/BG3Z">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250801" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250901" alt="TryHackMe Badge">
   </a>
 </div>
 
