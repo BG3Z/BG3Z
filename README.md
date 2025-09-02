@@ -65,10 +65,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+THM+Profile+%3E" />
     </a>
 </div>
-
+<!-- THM -->
 <div align="center">
   <a href="https://tryhackme.com/p/BG3Z">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250901" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BG3Z.png?nocache=20250902" alt="TryHackMe Badge">
   </a>
 </div>
 
