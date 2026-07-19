@@ -15,8 +15,8 @@
 
 <p align="center">
   🔎 Computer Engineering<br>
-  🔴 Red Teamer<br>
-  👨‍💻 Junior Pentester <br>
+  🔴 Junior Pentester<br>
+  👨‍💻 Bug Bounty<br>
 </p>
 
 <p align="center">
@@ -40,9 +40,10 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="BG3Z Top Langs" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=BG3Z&theme=aura&no-frame=true&row=1&column=6" alt="Trofeos BG3Z" />
+    </a>
 </div>
-
 <br>
 
 <div id="certs" align="center">
