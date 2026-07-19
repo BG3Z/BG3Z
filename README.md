@@ -39,7 +39,9 @@
   </a>
 </p>
 
-![BG3Z Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="BG3Z Top Langs" />
+</div>
 
 <br>
 
