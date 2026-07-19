@@ -39,9 +39,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="BG3Z Top Langs"/>
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG3Z&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="BG3Z Top Langs" />
+</div>
 
 <br>
 
