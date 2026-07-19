@@ -29,7 +29,7 @@
 
 <div id="skills" align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Skills+%3E" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Skills+%3E" alt="Typing SVG" />
     </a>
 </div>
 
