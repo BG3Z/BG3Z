@@ -16,7 +16,7 @@
 <p align="center">
   🔎 Computer Engineering<br>
   🔴 Junior Pentester<br>
-  👨‍💻 Bug Bounty<br>
+  👨‍💻 Bug Hunter<br>
 </p>
 
 <p align="center">
