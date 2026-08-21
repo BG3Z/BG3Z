@@ -15,7 +15,7 @@
 
 <p align="center">
   🔎 Computer Engineering<br>
-  🔴 Junior Pentester<br>
+  🔴 Red Team<br>
   👨‍💻 Bug Hunter<br>
 </p>
 
