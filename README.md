@@ -48,6 +48,8 @@
 </div>
 
 <p align="center">
+  <!-- BSCP -->
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*c6lP5qj99J12K2nQY58oIg.png" width="120" alt="BSCP"/>
   <!-- eJPTv2 -->
   <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="120" alt="eJPTv2"/>
   <!-- ICCA -->
